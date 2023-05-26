@@ -1,0 +1,38 @@
+.proposal{
+ background-color: aqua;
+ height:5vh;
+ width: 30vw;
+ margin: auto;
+ margin-top: 100px;
+}
+body{
+ background-image: url(date.jpg);
+}
+.greet{
+ background-color: aqua;
+ height:5vh;
+ width:15vw;
+ margin: auto;
+ text-align: center;
+}
+.btn{
+ /* background-color: aqua; */
+ height:5vh;
+ width:15vw;
+ margin: auto;
+ margin-top: 100px;
+ text-align: center;
+ 
+}
+#yes{
+ background-color: blue;
+ height: 5vh;
+ width:7vw;
+ color: white;
+}
+#no{
+ background-color: blue;
+ height: 5vh;
+ width:7vw;
+ color: white;
+}
